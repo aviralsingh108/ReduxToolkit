@@ -1,7 +1,7 @@
 {
   "name": "redux-toolkit",
   "version": "1.0.0",
-  "description": "Basic Javascript App with Redux Toolkit",
+  "description": "Basic NodeJS App with Redux Toolkit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aviralsingh108/ReduxToolkit/issues"
   },
-  "homepage": "https://github.com/aviralsingh108/ReduxToolkit#readme"
+  "homepage": "https://github.com/aviralsingh108/ReduxToolkit#readme",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
 }
